@@ -1,5 +1,21 @@
 # Base64 Icon Studio 🖼️
 
+⚠️ **LICENSE & USAGE NOTICE — READ FIRST**
+
+This repository is **source-available for private technical evaluation and testing only**.
+
+- ❌ No commercial use  
+- ❌ No production use  
+- ❌ No academic, institutional, or government use  
+- ❌ No research, benchmarking, or publication  
+- ❌ No redistribution, sublicensing, or derivative works  
+- ❌ No independent development based on this code  
+
+All rights remain exclusively with the author.  
+Use of this software constitutes acceptance of the terms defined in **LICENSE.txt**.
+
+---
+
 A lightweight, desktop utility built with Python to instantly convert images into Base64 Data URIs. Perfect for web developers and UI designers who want to embed icons directly into CSS, HTML, or JSON files without managing external assets.
 
 ## ✨ Features
@@ -54,11 +70,26 @@ The Studio handles all common web formats, including:
 - Output Format: data:<mime_type>;base64,<encoded_data>
 
 ---
-## 🤝 Contributing
-Contributions are welcome! If you'd like to add features (like image resizing or batch processing), feel free to fork the repo and submit a pull request.
+## Contribution Policy
 
-1. Fork the Project
-2. Create your Feature Branch (git checkout -b feature/AmazingFeature)
-3. Commit your Changes (git commit -m 'Add some AmazingFeature')
-4. Push to the Branch (git push origin feature/AmazingFeature)
-5. Open a Pull Request
+Feedback, bug reports, and suggestions are welcome.
+
+You may submit:
+
+- Issues
+- Design feedback
+- Pull requests for review
+
+However:
+
+- Contributions do not grant any license or ownership rights
+- The author retains full discretion over acceptance and future use
+- Contributors receive no rights to reuse, redistribute, or derive from this code
+
+---
+
+## License
+This project is not open-source.
+
+It is licensed under a private evaluation-only license.
+See LICENSE.txt for full terms.
